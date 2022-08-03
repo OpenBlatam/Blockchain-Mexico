@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Blockchain-Mexico
+- 👋 Hi, I’m @Blatam
 
 
 <!---
-Blockchain-Mexico/Blockchain-Mexico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Blatam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
